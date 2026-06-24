@@ -1,0 +1,6 @@
+{
+  "name": "Comic Book Style Portfolio",
+  "description": "A high-fidelity retro comic-book-inspired portfolio featuring personal background, skills, projects, resume, certifications, and contact sections with torn-paper dividers and bold pop art aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
