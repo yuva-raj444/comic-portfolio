@@ -1,8 +1,3 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
-
 import React from "react";
 import { Sparkles, Terminal, ShieldAlert, MonitorPlay } from "lucide-react";
 import { motion } from "motion/react";

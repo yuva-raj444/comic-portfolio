@@ -1,8 +1,3 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
-
 import React, { useState } from "react";
 import { Sparkles, Terminal, Layers, Globe } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";

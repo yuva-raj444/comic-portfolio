@@ -1,8 +1,3 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
-
 import React, { useState } from "react";
 import { Send, Scissors, Mail, MapPin, Milestone, CheckCircle } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";

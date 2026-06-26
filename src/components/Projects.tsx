@@ -1,8 +1,3 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
-
 import React, { useEffect, useState } from "react";
 import { Github, BookOpen, CheckCircle, ArrowUpRight } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";

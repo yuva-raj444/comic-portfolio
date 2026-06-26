@@ -1,8 +1,3 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
-
 import React from "react";
 import { Award, ShieldAlert, BadgeCheck, FileCheck } from "lucide-react";
 import { certificationsData } from "../data";
