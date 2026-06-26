@@ -9,8 +9,14 @@ import { experienceData } from "../data";
 
 export default function Resume() {
   const triggerDownloadResume = () => {
-    alert("Resume download action is ready. Add your actual resume URL/file to wire this button.");
-  };
+  const link = document.createElement("a");
+  link.href = "/resume/Yuvaraj_Resume.pdf";
+  link.download = "Yuvaraj_Resume.pdf";
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+};
+  
 
   return (
     <section
