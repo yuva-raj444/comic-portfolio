@@ -103,13 +103,13 @@ export default function Contact() {
                 <div className="flex gap-3 items-center">
                   <MapPin className="w-4 h-4 text-yellow-300 shrink-0" />
                   <span className="font-mono text-xs text-zinc-300 uppercase tracking-widest">
-                    LOCATION: BANGALORE, INDIA
+                    LOCATION: CHENNAI, INDIA
                   </span>
                 </div>
                 <div className="flex gap-3 items-center">
                   <Mail className="w-4 h-4 text-yellow-300 shrink-0" />
                   <span className="font-mono text-xs text-zinc-300 select-all">
-                    EMAIL: CONTACT@COMICPORTFOLIO.DEV
+                    EMAIL: gyuvaraj444@gmail.com
                   </span>
                 </div>
                 <div className="flex gap-3 items-center">

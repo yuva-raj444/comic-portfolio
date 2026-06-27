@@ -146,10 +146,10 @@ export const projectsData: ProjectItem[] = [
     description: "AI-powered health diagnosis system using symptom analysis and Gemini suggestions.",
     detailedDescription: "Diagnose Me analyzes user symptoms and suggests possible medical conditions with intelligent guidance. It combines a clean web interface with AI-backed reasoning and practical workflows for early-stage health awareness.",
     techStack: ["Next.js", "API", "Gemini", "Fine Tuning"],
-    imageUrl: "https://picsum.photos/seed/diagnose-me/400/500",
+    imageUrl: "proj1.png",
     accentColor: "crimson",
     links: {
-      github: "https://github.com"
+      github: "https://github.com/yuva-raj444/diagnoseme"
     },
     keyOutcome: "Built a practical AI workflow for symptom-based analysis and smart recommendations."
   },
@@ -160,10 +160,10 @@ export const projectsData: ProjectItem[] = [
     description: "Multilingual legal assistant with RAG, issue classification, and complaint draft generation.",
     detailedDescription: "A real-world AI legal assistant that answers legal queries in Tamil and English using Retrieval Augmented Generation. It classifies legal issue types, produces complaint drafts, and supports PDF export for practical legal support.",
     techStack: ["FastAPI", "Python", "RAG", "Google Gemini", "FAISS"],
-    imageUrl: "https://picsum.photos/seed/legal-assistant/400/500",
+    imageUrl: "/proj2.png",
     accentColor: "azure",
     links: {
-      github: "https://github.com"
+      github: "https://github.com/yuva-raj444/Needhi"
     },
     keyOutcome: "Enabled multilingual legal guidance with automated drafting and retrieval-based reasoning."
   },
@@ -174,10 +174,10 @@ export const projectsData: ProjectItem[] = [
     description: "Machine learning system that predicts diabetes from patient health metrics.",
     detailedDescription: "This project uses patient metrics such as BMI, glucose level, and related medical history to predict diabetes risk. The model pipeline focuses on reliable preprocessing and practical outputs for easy interpretation.",
     techStack: ["Python", "Random Forest", "Pandas", "NumPy"],
-    imageUrl: "https://picsum.photos/seed/diabetes-predictor/400/500",
+    imageUrl: "/diab.png",
     accentColor: "emerald",
     links: {
-      github: "https://github.com"
+      github: "https://github.com/yuva-raj444/my-first-prediction"
     },
     keyOutcome: "Delivered accurate and interpretable risk prediction from real health data features."
   },
@@ -191,7 +191,7 @@ export const projectsData: ProjectItem[] = [
     imageUrl: "/intrux.png",
     accentColor: "beer",
     links: {
-      github: "https://github.com"
+      github: "https://github.com/yuva-raj444/intrux"
     },
     keyOutcome: "Implemented practical surveillance intelligence with immediate unauthorized motion alerts."
   },
@@ -203,10 +203,10 @@ export const projectsData: ProjectItem[] = [
   detailedDescription:
     "A community-driven news application designed for villages and local communities. Users can share announcements, events, emergency alerts, and important updates in real time. The platform supports multilingual content, Firebase authentication, cloud storage, and instant synchronization to keep residents informed and connected.",
   techStack: ["Flutter", "Dart", "Firebase"],
-  imageUrl: "https://picsum.photos/seed/village-news-app/400/500",
+  imageUrl: "/murasu.png",
   accentColor: "emerald",
   links: {
-    github: "https://github.com"
+    github: "https://github.com/yuva-raj444/mobile-murasu"
   },
   keyOutcome:
     "Enabled real-time community communication with instant news sharing, multilingual support, and cloud-based synchronization."
@@ -283,15 +283,15 @@ export const certificationsData: CertificationItem[] = [
     issuer: "LinkedIn Learning",
     date: "2023",
     credentialId: "LI-GENAI-2023",
-    badgeType: "bronze"
+    badgeType: "gold"
   },
   {
     id: "c5",
-    title: "Data Analytics Job Simulation",
-    issuer: "Deloitte Australia",
-    date: "2025",
-    credentialId: "DEL-DA-2025",
-    badgeType: "bronze"
+    title: "Cloud Computing Engineering (Azure / AWS)",
+    issuer: "Wipro",
+    date: "2026",
+    credentialId: "CL-COM-2026",
+    badgeType: "gold"
   }
 ];
 
